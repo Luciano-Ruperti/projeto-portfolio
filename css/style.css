@@ -99,7 +99,7 @@ section {
 .hero {
   height: 100vh;
   width: 95%;
-  background: url(img/foto_bg4_luciano_ruperti.png);
+  background: url(../img/foto_bg4_luciano_ruperti.png);
   background-position: bottom right;
   background-size: auto;
   background-repeat: no-repeat;
