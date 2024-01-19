@@ -27,6 +27,7 @@ body {
 
 header {
   position: fixed;
+  min-height: 50px;
   width: 100%;
   top: 0;
   right: 0;
@@ -588,11 +589,11 @@ form .send-btn:hover {
 @media (max-width: 730px) {
   .main-content {
     width: 40%;
-    height: 80vh;
+    /*height: 80vh;*/
   }
-  /*.hero {
-    width: 100%;
-  }*/
+  .hero {
+    height: auto;
+  }
 
   .thanks {
     width: 100%;
@@ -644,7 +645,9 @@ form .send-btn:hover {
   }
 
   .hero {
-    background-size: 90%;
+    background-size: 95%;
+    background-position: center right;
+    height: auto;
   }
 
   .thanks {
