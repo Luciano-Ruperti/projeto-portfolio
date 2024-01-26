@@ -402,6 +402,7 @@ form .send-btn:hover {
   align-items: center;
   justify-content: center;
   gap: 2rem;
+  line-height: 25px;
 }
 
 .copyright p {
