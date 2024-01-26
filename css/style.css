@@ -444,6 +444,7 @@ form .send-btn:hover {
 .thanks p {
   font-size: 1.5rem;
   color: #c3cad5;
+  line-height: 30px;
 }
 
 .thanks a {
@@ -670,6 +671,7 @@ form .send-btn:hover {
   }
 
   .thanks {
-    flex-wrap: nowrap;
+    width: 90%;
+    padding: 20px;
   }
 }
