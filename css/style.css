@@ -305,6 +305,7 @@ header.sticky {
   box-shadow: 0 0 5px var(--main-color);
   padding: 20px;
   transition: all 0.5s ease;
+  height: 30rem;
 }
 
 .main-row {
