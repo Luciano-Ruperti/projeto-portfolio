@@ -339,6 +339,7 @@ header.sticky {
     font-weight: 700;
     margin-bottom: 10px;
     line-height: 1.4;
+    margin-right: 10px;
 }
 
 .row:hover {
