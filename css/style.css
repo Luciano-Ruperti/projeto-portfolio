@@ -675,5 +675,6 @@ form .send-btn:hover {
     .thanks {
         width: 90%;
         padding: 20px;
+        text-align: center;
     }
 }
